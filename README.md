@@ -21,12 +21,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+# Ryan Barristo User Changes
 
-
-
+//*Added Alt="" tags to images *//
 
 //* Added a title to the website listed as "Week 1 challenge" *//
 
 //* changed Div=Class to Div=id on Search Engine Optimization to fix the nav buttons so they function properly *//
 
+//* Changed everything to just h3 for the right panel in the CSS *//
 
+//* Deleted Redundant CSS on the h2 tag *//
